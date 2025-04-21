@@ -570,4 +570,12 @@ export default [
         isGitHub: true, 
         notes: "Gallery banner by Dillon",
     },
+    {
+        name: "FirebaseDB",
+        description: "A powerful WebSocket extension for Scratch. Allows for online connectivity to servers for things like multiplayer.",
+        code: "logise/FirebaseDB.js",
+        banner: "logise/banner.png",
+        creator: "Logise",
+        isGitHub: false,
+    },
 ];
